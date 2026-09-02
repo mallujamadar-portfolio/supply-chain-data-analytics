@@ -41,7 +41,7 @@ The project uses **Power BI, Python, Excel, Tableau, and MySQL** to transform su
 
 # 📊 Dashboards & Analysis
 
-## 1. Executive Supply Chain Dashboard
+## 1. Excel - Executive Supply Chain Dashboard
 
 The Executive Supply Chain Dashboard analyzes:
 
@@ -64,7 +64,7 @@ The Executive Supply Chain Dashboard analyzes:
 
 ---
 
-## 2. Inventory Analysis Dashboard
+## 2. Power Bi - Inventory Analysis Dashboard
 
 The Inventory Analysis Dashboard analyzes:
 
@@ -85,7 +85,7 @@ The Inventory Analysis Dashboard analyzes:
 
 ---
 
-## 3. Logistics & Supplier Performance Dashboard
+## 3. Tableau - Logistics & Supplier Performance Dashboard
 
 The dashboard analyzes:
 
