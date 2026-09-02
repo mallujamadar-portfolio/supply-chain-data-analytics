@@ -6,7 +6,7 @@
 
 This Supply Chain Data Analytics project provides an end-to-end analysis of supply chain performance, inventory management, logistics, supplier performance, and business operations.
 
-The project uses **Power BI, Python, Excel, and SQL** to transform supply chain data into meaningful business insights and interactive dashboards.
+The project uses **Power BI, Python, Excel, Tableau, and MySQL** to transform supply chain data into meaningful business insights and interactive dashboards.
 
 ---
 
@@ -31,7 +31,7 @@ The project uses **Power BI, Python, Excel, and SQL** to transform supply chain 
 - Power BI
 - DAX
 - Microsoft Excel
-- SQL / MySQL
+- MySQL
 - Python
 - Pandas
 - NumPy
@@ -81,7 +81,7 @@ The Inventory Analysis Dashboard analyzes:
 
 ### Dashboard Preview
 
-![Inventory Analysis Dashboard](Inventory_Analysis.png)
+![Inventory Analysis Dashboard](inventory_Analysis.png)
 
 ---
 
@@ -103,7 +103,7 @@ The dashboard analyzes:
 
 ### Dashboard Preview
 
-![Logistics and Supplier Performance](Logistics_Supplier_Performance.png)
+![Logistics and Supplier Performance](logistics_Supplier_Performance.png)
 
 ---
 
@@ -120,11 +120,11 @@ Python was used for exploratory and statistical analysis.
 
 ### Statistical Analysis
 
-![Supply Chain Statistical Analysis](Supply_Chain_Statistical_Analysis.png)
+![Supply Chain Statistical Analysis](supply_Chain_Statistical_Analysis.png)
 
 ### Relationship Analysis
 
-![Order Quantity vs Revenue](Supply_Chain_Statistical_Analysis_2.png)
+![Order Quantity vs Revenue](supply_Chain_Statistical_Analysis_2.png)
 
 ---
 
@@ -134,7 +134,7 @@ The analysis identifies important supply chain trends related to revenue, delive
 
 ### Key Insights
 
-![Key Insights](Key_Insights.png)
+![Key Insights](key_Insights.png)
 
 ---
 
@@ -150,7 +150,7 @@ The project provides recommendations to improve:
 
 ### Recommendations
 
-![Recommendations](Recommendations.png)
+![Recommendations](recommendations.png)
 
 ---
 
@@ -226,6 +226,6 @@ supply-chain-data-analytics/
 
 ---
 
-# 📌 Author
+# 📌 Perpardy by
 
-**Your Name**
+**Mallikarjun**
