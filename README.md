@@ -60,7 +60,7 @@ The Executive Supply Chain Dashboard analyzes:
 
 ### Dashboard Preview
 
-![Executive Supply Chain Dashboard](Executive_Supply_Chain.png)
+![Executive Supply Chain Dashboard](executive_Supply_Chain.png)
 
 ---
 
