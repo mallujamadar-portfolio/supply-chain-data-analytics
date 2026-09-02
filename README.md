@@ -6,7 +6,7 @@
 
 This Supply Chain Data Analytics project provides an end-to-end analysis of supply chain performance, inventory management, logistics, supplier performance, and business operations.
 
-The project uses **Power BI, Python, Excel, and SQL** to transform supply chain data into meaningful business insights and interactive dashboards.
+The project uses **Power BI, Python, Tableau, Excel, and MySQL** to transform supply chain data into meaningful business insights and interactive dashboards.
 
 ---
 
@@ -31,7 +31,7 @@ The project uses **Power BI, Python, Excel, and SQL** to transform supply chain 
 - Power BI
 - DAX
 - Microsoft Excel
-- SQL / MySQL
+- MySQL
 - Python
 - Pandas
 - NumPy
@@ -41,7 +41,7 @@ The project uses **Power BI, Python, Excel, and SQL** to transform supply chain 
 
 # 📊 Dashboards & Analysis
 
-## 1. Executive Supply Chain Dashboard
+## 1. Executive Supply Chain Dashboard [Excel]
 
 The Executive Supply Chain Dashboard analyzes:
 
@@ -64,7 +64,7 @@ The Executive Supply Chain Dashboard analyzes:
 
 ---
 
-## 2. Inventory Analysis Dashboard
+## 2. Inventory Analysis Dashboard [Power Bi]
 
 The Inventory Analysis Dashboard analyzes:
 
@@ -85,7 +85,7 @@ The Inventory Analysis Dashboard analyzes:
 
 ---
 
-## 3. Logistics & Supplier Performance Dashboard
+## 3. Logistics & Supplier Performance Dashboard [Tableau]
 
 The dashboard analyzes:
 
@@ -226,6 +226,6 @@ supply-chain-data-analytics/
 
 ---
 
-# 📌 Author
+# 📌 Perpardy by
 
-**Your Name**
+**Mallikarjun**
